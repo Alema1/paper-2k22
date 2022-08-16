@@ -1,1 +1,1 @@
-# paper-2k22
+Repositório dos arquivos importantes do artigo.
